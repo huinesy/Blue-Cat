@@ -1,0 +1,16 @@
+The Theme is from niivu
+Unzip the Windows Theme rar and read his tutorial here for applying the theme: https://www.deviantart.com/niivu/art/How-to-install-Windows-10-or-11-Themes-708835586
+
+It might mess up your wallpaper, cursor and accent color. Just change them after applying the theme.
+-----
+
+For the Icons unzip the Icon.rar and follow the original guide from the theme:
+
+To use the 7tsp Icon themes refer to the instructions here. https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422
+
+Remove the '.remove' extension from the 7tsp files before loading into 7tsp patcher 
+
+-----
+
+For removing the ribbon in the Windows Explorer I use ExplorerPatcher and OldNewExplorer. I have attached photos for the settings.
+To change the color of the top of the explorer use Winaero Tweaker and set the Inactive Title Bars Color to rgb(1,22,39)
